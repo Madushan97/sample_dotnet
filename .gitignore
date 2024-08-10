@@ -1,0 +1,160 @@
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / Visual Studio for Mac
+*.userprefs
+*.usertasks
+*.vscode
+*.nupkg
+*.resharper
+
+# Rider
+*.sln.idea
+*.sln.iml
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet Packages
+*.nupkg
+*.paket.restore.log
+*.paket.references
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
+
+# MonoDevelop
+*.pidb
+
+# Microsoft Azure Build Output
+csx
+*.build.csdef
+
+# Windows Store app package directory
+AppPackages/
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.lai
+*.la
+*.class
+
+# Libraries
+bin/
+lib/
+
+# Temporary build data
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio profiler
+*.vsp
+
+# Rider files
+.idea/
+
+# Coveralls coverage
+.coverage
+
+# OpenCover
+OpenCover/
+reports/
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# Xamarin-specific
+*.iOS.designer.cs
+*.iOS.csproj
+*.iOS.fsproj
+*.iOS.sln
+*.macOS.designer.cs
+*.macOS.csproj
+*.macOS.fsproj
+*.macOS.sln
+*.Android.designer.cs
+*.Android.csproj
+*.Android.fsproj
+*.Android.sln
+
+# MAUI Blazor WebViews
+BlazorWebView/
+
+# Blazor pre-rendering
+_Imports.razor.g.cs
+
+# Windows Metadata Directory Files
+*.wm*
+*.vc.db
+
+# Rider
+.idea/
+*.sln.iml
+*.iws
+
+# Resharper
+_ReSharper*/
+*.ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+*.iws
+
+# Azure Projects
+ipch/
+*.aps
+*.userprefs
